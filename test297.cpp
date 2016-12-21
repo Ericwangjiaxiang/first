@@ -9,4 +9,4 @@ struct node{
 	node* lchild;
 	node* rchild;
 }; 
-int pre[maxn], in[maxn], post[maxn]
+
